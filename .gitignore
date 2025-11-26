@@ -1,0 +1,35 @@
+# Dépendances
+node_modules/
+package-lock.json
+
+# Fichiers secrets
+.env
+.env.local
+.env.production
+config.json
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Fichiers de test
+test/
+*.test.js
+coverage/
+
+# Divers
+*.bak
+*.tmp
+.cache/
+dist/
